@@ -21,6 +21,10 @@ main{
     justify-content: center;
 }
 
+h2 {
+    letter-spacing: 5px; 
+}
+
 .cabecalho{
     z-index: 1;
     display: flex;    
